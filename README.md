@@ -1,6 +1,6 @@
 ### Hi there, my name is Chris! 👋
 
-I am a junior Full-stack developer studying at Coder Academy!
+I am a junior full-stack developer, studying at Coder Academy!
 
 - 🔭 I’m currently working on building my portfolio of personal projects and learning about the exciting world of code!
 - 🌱 I’m currently learning Ruby/Rails, JavaScript/React, Node.js and Express.js!
